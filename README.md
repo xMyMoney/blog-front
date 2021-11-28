@@ -2,26 +2,6 @@
 
 > 这是我的博客前端以及后台管理系统源码，使用vue+element ui，实现响应式博客系统。博客页面参考hexo next主题，后台管理首页参考tale。
 
-## 博客地址
-
-[http://codebear.cn](http://codebear.cn/?ADTAG=gh)
-
-## 效果图
-
-### 博客-pc
-![博客-pc](/readme-file/博客.gif)
-
-### 博客-手机
-
-![博客-手机](/readme-file/博客-手机.gif)
-
-### 博客-后台管理-pc
-![博客-后台管理-pc](/readme-file/博客-后台管理.gif)
-
-### 博客-后台管理-手机
-
-![博客-后台管理-手机](/readme-file/博客-后台管理-手机.gif)
-
 ## 博客实现功能
 - [x] 首页（文章列表）
 - [x] 分类/标签列表
@@ -50,7 +30,3 @@
 - [ ] 修改管理员密码
 
 ## LICENSE
-
-[MIT](https://opensource.org/licenses/MIT)
-
-Copyright (c) 2018-present, CodeBear
